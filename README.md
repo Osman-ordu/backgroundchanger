@@ -1,1 +1,1 @@
-# https://osman-ordu.github.io/backgroundchanger/
+# https://osman-ordu.github.io/Background-changer/
